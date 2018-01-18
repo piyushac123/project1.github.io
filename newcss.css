@@ -1,0 +1,154 @@
+body{
+background-color: blue;
+color:aqua;   
+}
+.body1{
+background-color: black;
+color:white;
+}
+.date1{
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 30px;
+	line-height: 50px;
+}
+.list1{
+    list-style-type: none;
+}
+.textsize1{
+    
+    font-family: 'Droid Serif', Georgia, Times, serif;
+	font-size: 50px;
+	line-height: 100px;
+    text-indent: 215px;
+    font-variant: small-caps;
+}
+.textsize2{
+    
+   font-family: 'Droid Serif', Georgia, Times, serif;
+	font-size: 40px;
+	line-height: 60px;
+    text-indent: 100px;
+    font-variant: small-caps;
+}
+.imgsize{
+    height: 600px;
+    width: 600px;
+   
+}
+/*.imgfull{
+     padding-right: 300px;
+}*/
+.col1{
+    padding:10px;
+}
+.col2{
+    padding:20px;
+}
+.p1{
+        font-family: 'Molengo', Georgia, Times, serif;
+	font-size: 50px;
+	line-height: 60px;
+font-variant:small-caps;
+}
+.subhead{
+    padding-top:40px;
+    font-family: 'Molengo', Georgia, Times, serif;
+	font-size: 30px;
+	line-height: 40px;
+font-variant:small-caps;
+}
+.subhead1{
+    font-family: 'Molengo', Georgia, Times, serif;
+	font-size: 30px;
+	line-height: 40px;
+font-variant:small-caps;
+    padding-top: 10px;
+}
+.heading{
+    padding-top: 40px;
+    margin:auto;
+    font-variant: small-caps;
+    font-family: 'Droid Serif', Georgia, Times, serif;
+	font-size: 49px;
+	line-height: 65px;
+    background-color: blue;
+    width:100%;
+    text-align: center;
+}
+.date{
+    background-color: black;
+    color:white;
+    font-size: 25px;
+    
+}
+.head2{
+    text-indent: 50px;
+}
+.rule{
+    width:100%;
+    background-color: blue;
+    height: 20px;
+}
+.iframe1{
+    border:2px solid grey;
+    width: 300px;
+    height: 300px;
+}
+.pad{
+  padding-left: 150px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+cursor:pointer;
+}
+
+.fa:hover{
+color:white;
+}
+li{
+line-height:30px;
+font-size:25px;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+text-shadow:1px 1px black;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+border:1px solid #007bb5;
+  color: white;
+text-shadow:1px 1px black;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+text-shadow:1px 1px black;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+text-shadow:1px 1px black;
+}
+.link{
+text-decoration:none;
+}
+.link:hover{
+text-decoration:none;
+color:lightblue;
+}
+.topic{
+    font-size: 5px;
+}
+.ihtml{
+    font-size:25px;
+    /*line-height: 5px;*/
+}
